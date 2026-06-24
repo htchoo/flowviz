@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+.env
+
+# 프로젝트 생성 파일
+uploaded_dags/
